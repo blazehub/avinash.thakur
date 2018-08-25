@@ -1,5 +1,6 @@
 @import 'config';
 @import 'menu';
+@import 'mobile';
 
 @mixin background {
   @if $show-home-image{
